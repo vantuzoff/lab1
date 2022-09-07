@@ -5,8 +5,9 @@ public class Fibonacci {
      * Function that generate Fibonacci numbers,
      * counts its sum and counts what number on account it.
      * @param n3 amount of nums needed to sum
-     * @param n fibonacci number
+     * @param n amount of fibonacci numbers
      */
+
     static void outNums(int n, int n3){
         int n0 = 1;
         numb = 1;
