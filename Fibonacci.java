@@ -1,18 +1,11 @@
 public class Fibonacci {
-
-    /**
-     * Consist info about value of number and
-     * counter of numbers.
-     * @param value value of Fibonacci number
-     * @ numb counter
-     */
-
     static int numb;
     static int value;
     /**
      * Function that generate Fibonacci numbers,
      * counts its sum and counts what number on account it.
      * @param n3 amount of nums needed to sum
+     * @param n fibonacci number
      */
     static void outNums(int n, int n3){
         int n0 = 1;

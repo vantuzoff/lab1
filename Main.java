@@ -8,6 +8,10 @@ import java.util.Scanner;
  */
 
 public class Main {
+    /**
+     *
+     * @param args allow to enter data from command line
+     */
     public static void main(String[] args){
             int N, NS;
         if(args.length == 0) {
